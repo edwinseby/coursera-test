@@ -20,6 +20,21 @@ body {
   margin-top: 0;
   margin-bottom: 0px;
 }
+#nav-list {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+#nav-list li {
+	background-color: #fff;
+	border: 1px solid #000;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #000;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
 #heading {
 	font-family: verdana;
 	margin-bottom: 50px;
