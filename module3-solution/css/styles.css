@@ -1,0 +1,38 @@
+body {
+  font-size: 16px;
+  color: #000;
+  font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #777;
+  border-radius: 0;
+  border: 0;
+}
+.container-fluid .navbar-brand {
+  padding: 25px 15px;
+  margin-bottom: 35px;
+}
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Lora', serif;
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 0px;
+}
+#heading {
+	font-family: verdana;
+	margin-bottom: 50px;
+}
+#item-heading {
+	font-family: verdana;
+}
+#item {
+	background-color: #777;
+	padding: 5px;
+	margin-bottom: 30px;
+}
+#item p {
+	font-family: verdana;
+	padding: 15px;
+}
